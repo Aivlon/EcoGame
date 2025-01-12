@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Vacuum cleaner
   m_EditorClassIdentifier: 
   name: vacuum cleaner
-  visual: {fileID: 21300000, guid: 14eaaad4db20fca40a5570e650400a8c, type: 3}
-  prefab: {fileID: 1709890035171790, guid: dd442d5015be21746bc53a26c94f74ec, type: 3}
+  visual: {fileID: 21300000, guid: a45769c662a264fbbbc159ea13d73b22, type: 3}
+  prefab: {fileID: 2567510696292102073, guid: 9d45565f2060f4b0c8d270ee44575514, type: 3}
