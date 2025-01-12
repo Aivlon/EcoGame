@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b22b7b0ebf83c47e884e2075f231d157, type: 3}
+  m_Name: Vacuum cleaner
+  m_EditorClassIdentifier: 
+  name: vacuum cleaner
+  visual: {fileID: 21300000, guid: 14eaaad4db20fca40a5570e650400a8c, type: 3}
+  prefab: {fileID: 1709890035171790, guid: dd442d5015be21746bc53a26c94f74ec, type: 3}
