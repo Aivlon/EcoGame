@@ -1,3 +1,4 @@
+# Unity-generated folders (exclude these to avoid unnecessary files)
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -5,6 +6,8 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]serSettings/
+
+# Ignore auto-generated Visual Studio and Rider project files
 *.csproj
 *.unityproj
 *.sln
@@ -15,10 +18,26 @@
 *.pidb
 *.booproj
 *.svd
+
+# Ignore debug and crash logs
 *.pdb
 *.mdb
+*.stackdump
+
+# Ignore cache files and system-generated files
 *.opendb
 *.VC.db
+.DS_Store
 
-Assets/URP_WasteOvergrowth_SA/HDRP_WasteOvergrowth_SA.unitypackage
+# Ignore build artifacts
+*.apk
+*.aab
+*.ipa
+*.app
+*.exe
+*.dll
+*.dylib
+*.so
+
+# Optional: Ignore specific large files
 Assets/URP_WasteOvergrowth_SA/HDRP_WasteOvergrowth_SA.unitypackage
