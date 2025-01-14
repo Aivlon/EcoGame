@@ -1,2 +1,0 @@
-Temp/ScriptUpdater/325267976/566512133_BoatCtrl.cs => Assets/Scripts/BoatCtrl.cs
-Temp/ScriptUpdater/325267976/685774405_MoveBehaviour.cs => Assets/Character/Scripts/MoveBehaviour.cs
